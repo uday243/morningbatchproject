@@ -1,0 +1,16 @@
+.board
+{
+    display: flex;
+    flex-wrap: wrap;
+    width: 230px;
+    height: 170px;
+    background-color: red;
+}
+
+.divv
+{
+    width: 70px;
+    height: 50px;
+    background-color: orange;
+    margin: 2px;
+}
